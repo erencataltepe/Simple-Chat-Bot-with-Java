@@ -1,0 +1,7 @@
+custom_name: Topics
+content:
+  - Boolean type and operations. True and false
+  - Comparing values. Relational operators
+  - Conditional statement
+  - One-line condition with ternary operator
+  - For-loop
